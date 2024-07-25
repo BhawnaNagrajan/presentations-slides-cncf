@@ -10,6 +10,7 @@
   - Ashish Kumar&nbsp;[𝕏](https://twitter.com/kr_ashish99)&nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ashishkumar99/)
   - Satyam Soni&nbsp;[𝕏](https://twitter.com/satyampsoni)&nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/satyampsoni/)
 - **Volunteers:**
+ - Bhawna Nagrajan&nbsp;[𝕏](https://twitter.com/Bhawnagrajan)&nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/bhawnanagrajan/)
 - **Links:**
   - Event Page: https://community.cncf.io/events/details/cncf-new-delhi-presents-monsoon-itoring-clouds/
   - Recordings: https://www.youtube.com/playlist?list=PLEvTAmQs3uDRnZi8lNBhoXKRCBUMAHDft
